@@ -12,7 +12,7 @@
 
 void ultra_vInit(void);
 unsigned short ultraread(void);
-void vintultra(void);
+void ultra_vinit(void);
 
 
 
