@@ -18,7 +18,7 @@
 int main(void)
 
 {
-	vintultra();
+	ultra_vinit();
 	 DC_MOTOR_vInit();
 	  LCD_vInit();
 	   
