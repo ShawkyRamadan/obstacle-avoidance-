@@ -12,7 +12,7 @@
 	
 	
 	unsigned short a,b,high,distance;
-	void vintultra(void)
+	void ultra_vinit(void)
 	{
 		DIO_vsetPINDir('D',7,1);//init ultra
 		DIO_vsetPINDir('D',6,0);
